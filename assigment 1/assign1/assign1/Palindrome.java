@@ -26,6 +26,7 @@ public class Palindrome {                   											 // create the class Pali
 		int length = text.length();     	 											// declare the length of the string 
 		int forwards =0;               	 	 											// declare the beginning of the index of the String is 0
 		int backwards = length-1;       	 											// declare the end of the index of the String 
+		int loa=9;
 		boolean a= true;                	 											// default boolean valua a as true, so if it pass all the test it return true      
 		//boolean b= false;
 		//String s="";
