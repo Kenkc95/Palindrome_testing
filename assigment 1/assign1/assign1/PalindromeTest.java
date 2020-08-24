@@ -18,7 +18,8 @@ import org.junit.After;
 public class PalindromeTest {											// create the class test case for Palindrome
 	@Before
 	public void before()												// create function print before to separate beginning of test from other test
-	{                                              
+	{                                    
+		System.out.println("testing Git");
 		System.out.println("before");
 		System.out.println("");
 
