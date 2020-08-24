@@ -19,9 +19,12 @@ public class PalindromeTest {											// create the class test case for Palind
 	@Before
 	public void before()												// create function print before to separate beginning of test from other test
 	{                                    
+		// testing
 		System.out.println("testing Git");
 		System.out.println("before");
 		System.out.println("");
+		// cheasd a
+		int B =10;
 
 	}
 		
